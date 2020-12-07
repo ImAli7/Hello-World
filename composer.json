@@ -1,0 +1,19 @@
+{
+    "name": "imali7/hello-world",
+    "description": "Simple popular Hello_world app",
+    "type": "project",
+    "license": "MIT",
+    "repositories": [
+    	{
+    		"type": "vcs",
+    		"url": "https://github.com/imali7/hello-world"
+    	}
+    ],
+    "authors": [
+        {
+            "name": "Alireza Far",
+            "email": "imail01999@gmail.com"
+        }
+    ],
+    "require": {}
+}
